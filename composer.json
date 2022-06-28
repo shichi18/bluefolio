@@ -1,0 +1,17 @@
+{
+  "name": "shichi18/bluefolio",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "shichi",
+      "email": ""
+    }
+  ],
+  "scripts": {
+    "open": "open -a MAMP"
+  },
+  "require": {
+  }
+}
